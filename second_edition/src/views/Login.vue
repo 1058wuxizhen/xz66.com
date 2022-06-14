@@ -98,7 +98,7 @@ export default {
     }
     let info = ref('')
     info.value = '民主'
-    const columns = ['富强', '民主', '世界杯','文明', '和谐', '自由', '诚信', '敬业', '友善', '平等', '公正', '法治', '爱国', '友善', '志诚', '远志','明德','世界杯]
+    const columns = ['富强', '民主', '世界杯','明德', '和谐', '自由', '诚信', '敬业', '友善', '平等', '公正', '法治', '爱国', '友善', '志诚', '远志','明德','世界杯]
     const onConfirm = () => {}
     const onChange = value => {
       info.value = value
